@@ -1,0 +1,255 @@
+=== ROCK (top TF-IDF words) ===
+holly                658.87
+springsteen          608.50
+costello             491.64
+monkees              392.67
+henley               341.21
+petty                312.23
+browne               303.30
+starr                296.07
+jett                 278.93
+ferry                261.94
+walsh                260.73
+spoonful             251.85
+frampton             239.77
+cochran              235.60
+frey                 232.89
+
+=== ALTERNATIVE ROCK (top TF-IDF words) ===
+corgan               243.72
+bono                 227.48
+incubus              219.35
+offspring            194.98
+pumpkin              167.90
+avery                138.11
+stooge               135.40
+navarro              132.69
+chain                128.54
+staley               124.57
+smashing             124.57
+jenkins              124.57
+cantrell             120.89
+vampire              119.15
+keenan               116.86
+
+=== HARD ROCK (top TF-IDF words) ===
+vai                  576.81
+nugent               479.32
+coverdale            346.63
+meat                 319.55
+loaf                 311.43
+whitesnake           294.18
+toto                 276.22
+lynott               235.60
+creed                203.10
+lizzy                195.45
+homme                189.56
+kansa                178.73
+grohl                171.27
+rose                 164.62
+skynyrd              162.48
+
+=== POP ROCK (top TF-IDF words) ===
+mellencamp           453.35
+loggins              165.19
+messina              56.87
+indiana              51.45
+shondells            40.62
+cab                  35.20
+clark                33.90
+deleon               29.79
+orpheus              27.08
+clown                27.08
+scarecrow            24.37
+cougar               21.66
+descending           21.66
+bloomington          21.66
+plain                21.66
+
+=== BLUES ROCK (top TF-IDF words) ===
+canned               135.40
+hite                 111.03
+yardbird             107.83
+manzarek             105.61
+morrison             84.59
+parra                83.95
+door                 83.38
+heat                 77.98
+crowes               75.83
+mayall               75.34
+mccarty              70.41
+beck                 62.77
+carney               62.29
+vestine              59.58
+auerbach             56.87
+
+=== PSYCHEDELIC ROCK (top TF-IDF words) ===
+clapton              361.44
+byrd                 265.97
+mcguinn              159.77
+rodriguez            157.07
+jefferson            105.61
+starship             83.95
+kantner              73.12
+slick                70.41
+hillman              62.46
+parson               56.33
+tambourine           54.40
+sugar                51.45
+color                48.90
+crosby               47.58
+cream                40.24
+
+=== PROGRESSIVE ROCK (top TF-IDF words) ===
+duran                274.03
+wetton               129.99
+downes               100.20
+asia                 91.20
+payne                89.37
+manfred              70.41
+leto                 67.70
+thirty               64.38
+mar                  60.80
+mann                 53.11
+rhodes               52.39
+woolfson             48.74
+howe                 40.30
+bon                  38.63
+kinch                37.91
+
+=== ALTERNATIVE METAL (top TF-IDF words) ===
+cornell              465.44
+sepultura            149.10
+soundgarden          86.91
+audioslave           64.48
+tool                 62.46
+kisser               54.16
+cavalera             51.45
+metal                48.01
+seattle              37.02
+max                  37.02
+igor                 35.20
+keenan               30.22
+superunknown         29.79
+hole                 28.21
+vedder               27.36
+
+=== FOLK ROCK (top TF-IDF words) ===
+plant                307.40
+reed                 296.07
+tull                 259.97
+donovan              249.85
+anderson             209.55
+jethro               181.44
+young                142.72
+cale                 137.01
+barenaked            127.28
+yule                 116.45
+zeppelin             106.86
+peek                 105.61
+beckley              105.61
+fogelberg            102.91
+bonham               102.91
+
+=== NEW WAVE (top TF-IDF words) ===
+ant                  300.59
+roxy                 107.83
+oil                  94.96
+ferry                92.69
+weller               92.07
+garrett              67.70
+foxton               67.70
+simple               59.33
+talking              54.40
+mackay               52.39
+manzanera            52.39
+kerr                 48.36
+midnight             47.65
+byrne                46.04
+eno                  43.62
+
+=== POP (top TF-IDF words) ===
+abba                 601.19
+lennon               564.69
+presley              431.19
+harrison             360.34
+mayer                352.61
+fleetwood            344.55
+bowie                330.78
+coldplay             306.01
+bee                  255.89
+gee                  247.83
+ono                  237.76
+stewart              227.34
+morissette           224.77
+collins              215.69
+mccartney            190.06
+
+=== BLUES (top TF-IDF words) ===
+vaughan              368.73
+cocker               273.51
+diddley              238.31
+berry                209.23
+croce                186.86
+blunt                184.15
+mayall               68.73
+white                57.17
+stripe               51.45
+winter               45.81
+trouble              42.15
+stevie               40.97
+edgar                40.62
+jimmie               37.91
+chuck                37.35
+
+=== SOFT ROCK (top TF-IDF words) ===
+joel                 257.48
+genesis              191.52
+gabriel              122.91
+rutherford           100.75
+wing                 92.28
+laine                89.37
+hackett              83.95
+mccartney            72.51
+bank                 56.03
+collins              53.35
+brinkley             43.33
+supply               42.31
+seiwell              35.20
+juber                35.20
+foxtrot              29.79
+
+=== HEAVY METAL (top TF-IDF words) ===
+megadeth             492.87
+mustaine             446.83
+metallica            338.37
+kiss                 331.76
+maiden               259.92
+iron                 249.85
+metal                246.17
+simmons              232.89
+juda                 183.36
+priest               165.77
+dio                  151.12
+trivium              146.23
+halford              143.53
+dubrow               143.53
+ulrich               140.82
+
+=== PUNK ROCK (top TF-IDF words) ===
+pistol               135.19
+mclaren              135.00
+distortion           100.75
+reject               100.20
+ness                 92.07
+rotten               83.95
+matlock              81.24
+lydon                78.53
+ritter               75.83
+vicious              54.40
+sex                  52.23
+molly                46.04
+social               44.97
+wheeler              43.33
+sid                  40.62
+
